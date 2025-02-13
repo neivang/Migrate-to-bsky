@@ -7,4 +7,8 @@ Privacy note: No information is sent outside the application.
 
 
 If it has helped you and you would like to help me!
+<br>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A21AJ6R0)
+<br>
+<strong>I would be very grateful for any donation to be able to continue with this. But if you are not well off monetarily and still want to donate. Please think about it before and put your needs first.
+</strong>
