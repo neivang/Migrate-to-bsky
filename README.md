@@ -3,8 +3,11 @@
  1. Download the code “migrate.py”
  2. 
 
-Privacy note: No information is sent outside the application.
+# Privacity
 
+This application is run on your own computer, and no information is sent or stored on any server.
+
+# Tips ♥️
 
 If it has helped you and you would like to help me!
 <br>
