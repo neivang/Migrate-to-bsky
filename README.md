@@ -1,4 +1,6 @@
 # Migrate to Bluesky
-For free you can migrate your posts, profile and many more things by downloading this application: 
+# How to Use?
+ 1. Download the code “migrate.py”
+ 2. 
 
 Privacy note: No information is sent outside the application.
