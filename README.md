@@ -4,3 +4,6 @@
  2. 
 
 Privacy note: No information is sent outside the application.
+
+
+If it has helped you and you would like to help me -> ko-fi.com/neizan
